@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mylockd.com/sitemap.xml
